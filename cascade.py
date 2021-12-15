@@ -1,6 +1,8 @@
 import constant
 from path import Path
 
+# Math done on https://www.desmos.com/calculator/36hsvhf6gq
+
 GRAVITY = 100
 THROW_VX = 200
 THROW_VY = 300
